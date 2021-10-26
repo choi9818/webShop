@@ -27,7 +27,7 @@ public class JavaBeansTestServlet extends HttpServlet {
 		RequestDispatcher rd = request.getRequestDispatcher("test01/emp.jsp");
 		rd.forward(request, response);
 	}
-
+	//git....test
 	
 
 }
